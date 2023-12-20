@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Felipe Leal, A Senior at the University of Texas at El Paso studying Computer Science.
+- 👋 Hi, I’m Felipe Leal, an aspiring full stack software engineer.
 - 👀 I’m interested in roles in software engineering looking to expand my skills in java, python, c, etc. to the best of my abilites.
 - 🌱 I’m currently working as a Support Engineer at Oracle
 - 📫 How to reach me ... felipe.leal.sierra@gmail.com
